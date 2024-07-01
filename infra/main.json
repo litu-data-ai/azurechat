@@ -52,19 +52,19 @@
     },
     "chatGptDeploymentCapacity": {
       "type": "int",
-      "defaultValue": 120
+      "defaultValue": 10
     },
     "chatGptDeploymentName": {
       "type": "string",
-      "defaultValue": "chat-gpt-35-turbo"
+      "defaultValue": "chat-gpt-4o"
     },
     "chatGptModelName": {
       "type": "string",
-      "defaultValue": "gpt-35-turbo"
+      "defaultValue": "gpt-4o"
     },
     "chatGptModelVersion": {
       "type": "string",
-      "defaultValue": "1106"
+      "defaultValue": "2024-05-13"
     },
     "embeddingDeploymentName": {
       "type": "string",
