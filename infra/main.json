@@ -48,7 +48,7 @@
     },
     "openAIApiVersion": {
       "type": "string",
-      "defaultValue": "2024-05-01-preview"
+      "defaultValue": "2024-02-01"
     },
     "chatGptDeploymentCapacity": {
       "type": "int",
@@ -101,7 +101,7 @@
     },
     "dalleApiVersion": {
       "type": "string",
-      "defaultValue": "2023-12-01-preview"
+      "defaultValue": "2024-02-01"
     },
     "gptvisionLocation": {
       "type": "string",
@@ -127,7 +127,7 @@
     },
     "gptvisionApiVersion": {
       "type": "string",
-      "defaultValue": "2023-12-01-preview"
+      "defaultValue": "2024-02-01"
     },
     "gptvisionModelVersion": {
       "type": "string",
