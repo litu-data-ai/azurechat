@@ -23,7 +23,7 @@ param gptvisionLocation string
 param gptvisionDeploymentCapacity int = 30
 param gptvisionDeploymentName string = 'gpt-4-vision'
 param gptvisionModelName string = 'gpt-4'
-param gptvisionApiVersion string = '2023-12-01-preview'
+param gptvisionApiVersion string = '2024-02-01'
 param gptvisionModelVersion string = 'vision-preview'
 
 param speechServiceSkuName string = 'S0'
